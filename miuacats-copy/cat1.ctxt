@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=cat1
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ cat1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ cat1\ here.\r\n\ las\ imagenes\ de\ los\ gatos\ son\ propiedad\ de\r\n\ *<a\ href\="https\://www.freepik.es/vector-gratis/coleccion-gatos-color_1072063.htm\#query\=gatos&position\=5&from_view\=keyword&track\=sph">Imagen\ de\ terdpongvector</a>\ en\ Freepik\r\n\ @author\ (MISHELL\ JIMENENEZ\ Y\ NINA\ NAJERA)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
 comment1.params=
 comment1.target=void\ act()
 comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ cat1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n

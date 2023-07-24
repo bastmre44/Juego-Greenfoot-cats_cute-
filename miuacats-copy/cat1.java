@@ -2,8 +2,9 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
  * Write a description of class cat1 here.
- * 
- * @author (your name) 
+ * las imagenes de los gatos son propiedad de
+ * *<a href="https://www.freepik.es/vector-gratis/coleccion-gatos-color_1072063.htm#query=gatos&position=5&from_view=keyword&track=sph">Imagen de terdpongvector</a> en Freepik
+ * @author (MISHELL JIMENENEZ Y NINA NAJERA)
  * @version (a version number or a date)
  */
 public class cat1 extends Actor
